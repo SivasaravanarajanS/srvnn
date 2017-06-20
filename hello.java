@@ -6,7 +6,8 @@ import java.util.Scanner;
    public static void main(String[] args) 
     {
         Scanner s=new Scanner(System.in);
-          String new1="Hello";
+          System.out.println("Enter The Word:");
+        String new1=s.nextLine();
       for(int i=0;i<5;i++)
       {
       
