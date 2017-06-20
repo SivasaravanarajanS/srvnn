@@ -1,11 +1,9 @@
-package posorneg;
-
 import java.util.*;
 import java.lang.*;
 import java.io.*;
 import java.util.Scanner;
 
-public class posorneg
+class posorneg
 {
 public static void main(String[] args) 
     {
