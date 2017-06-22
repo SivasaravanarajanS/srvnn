@@ -23,4 +23,6 @@ System.out.println(thousands[th]+hundreds[th]+tens[t]+units[u]);
 }
 else
     System.out.println("Not in a range");
+}
+ }
     
